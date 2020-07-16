@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I'm Aaqib.I love to Code and learn new technologies.My vission help people to make their life better by providing better softwares.
-
+- 🔭 I'm Aaqib.I love to Code and learn new technologies.My vision is help people to make their life better by providing better softwares.
+      Former Trainee Software Engineer at BoardPAC: https://www.boardpac.co/srilanka/
+    
 - 👯 I’m looking to collaborate on Open Source Projects.Also you can find 
-    my open source contributions here: https://github.com/AaqibAhamed 
-    contributions on stackoverflow: https://stackoverflow.com/users/10611827/ahamed-aaqib 
+     my open source contributions here: https://github.com/AaqibAhamed 
+     contributions on stackoverflow: https://stackoverflow.com/users/10611827/ahamed-aaqib 
 
 - 🤔 Twite me on: https://twitter.com/AhamedAaqib1
 
@@ -18,7 +19,7 @@
 
 - 😄 Pronouns: People use to Call me WIKI in Industry.
 
-- ⚡ Fun fact: Like to solve Puzzles,Sudoke and Rubik's Cube etc.Love to play Chess.
+- ⚡ Fun fact: Like to solve Puzzles,Sudoke and Rubik's Cube. Love to play Chess.
 
 
 
