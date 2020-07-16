@@ -3,7 +3,7 @@
 - 🔭 I'm Aaqib.I love to Code and learn new technologies.My vision is help people to make their life better by providing better softwares..
         <br> Former Trainee Software Engineer at BoardPAC: https://www.boardpac.co/srilanka
     
-- 👯 I’m looking to collaborate on Open Source Projects.Also you can find.. 
+- 👯 I’m looking to collaborate on Open Source Projects. Also you can find.. 
      # my open source contributions here: https://github.com/AaqibAhamed 
      # contributions on stackoverflow: https://stackoverflow.com/users/10611827/ahamed-aaqib 
 
