@@ -9,7 +9,7 @@
 
 - 🤔 Twite me on: https://twitter.com/AhamedAaqib1
 
-- 💬 Ask me about .NET framework,ASP.NET MVC,ASP.NET Core,C#,Angular,Bootstrap,NodeJS,Express,MongoDB and Cloud Computing.
+- 💬 Ask me about .NET framework,ASP.NET MVC, ASP.NET Core, C#, Angular, Bootstrap, NodeJS, Express, MongoDB and Cloud Computing.
 
 - 🌱 I’m currently learning JavaScript Full Stack Development,Cloud Computing and advanced .NET Core development. 
 
