@@ -19,9 +19,9 @@
 
 - 😄 Pronouns: People use to Call me WIKI in Industry.
 
-- ⚡ Fun fact: Like to solve Puzzles,Sudoke and Rubik's Cube. Love to play Chess.
+- ⚡ Fun fact: Like to solve Puzzles,Sudoku and Rubik's Cube. Love to play Chess.
 
-   
+   **
 
 <!--
 **AaqibAhamed/AaqibAhamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
