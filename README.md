@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I'm Aaqib.I love to Code and learn new technologies.My vision is help people to make their life better by providing better softwares.
-      # Former Trainee Software Engineer at BoardPAC: https://www.boardpac.co/srilanka/
+- 🔭 I'm Aaqib.I love to Code and learn new technologies.My vision is help people to make their life better by providing better softwares..
+        # former Trainee Software Engineer at BoardPAC: https://www.boardpac.co/srilanka
     
 - 👯 I’m looking to collaborate on Open Source Projects.Also you can find.. 
      # my open source contributions here: https://github.com/AaqibAhamed 
@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact: Like to solve Puzzles,Sudoke and Rubik's Cube. Love to play Chess.
 
-     # https://github.com/AaqibAhamed/AaqibAhamed/blob/master/C%23.gif
+     ### https://github.com/AaqibAhamed/AaqibAhamed/blob/master/C%23.gif
 
 <!--
 **AaqibAhamed/AaqibAhamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
