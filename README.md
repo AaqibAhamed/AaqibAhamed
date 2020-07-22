@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact: Like to solve Puzzles,Sudoku and Rubik's Cube. Love to play Chess.
 
-  ![Alt](https://github.com/AaqibAhamed/AaqibAhamed/blob/master/C%23.gif)
+  ![Alt](https://github.com/AaqibAhamed/AaqibAhamed/blob/master/LangHelper.gif)
 
 <!--
 **AaqibAhamed/AaqibAhamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
