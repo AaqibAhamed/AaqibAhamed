@@ -5,7 +5,7 @@
     
 - 👯 I’m looking to collaborate on Open Source Projects...
      # my open source contributions here: https://github.com/AaqibAhamed 
-     # contributions on stackoverflow: https://stackoverflow.com/users/10611827/ahamed-aaqib 
+     # contributions on stackoverflow: https://stackoverflow.com/users/10611827/ahamed-aaqib
 
 - 🤔 Twite me on: https://twitter.com/AhamedAaqib1
 
@@ -17,9 +17,16 @@
 
 - 💬 Find me on: https://www.linkedin.com/in/aaqibahamed/
 
-- 😄 Pronouns: People use to Call me WIKI in Industry.
+- 😄 Pronouns: People use to call me WIKI.
 
 - ⚡ Fun fact: Like to solve Puzzles,Sudoku and Rubik's Cube. Love to play Chess.
+     # have a look on : -
+     https://www.coursera.org/user/abc867f5cb6dd2aede6381a3f2135f19
+     https://www.hackerrank.com/AaqibWiki
+     https://www.sololearn.com/Profile/5597066
+     
+     
+        
 
   ![Alt](https://github.com/AaqibAhamed/AaqibAhamed/blob/master/LangHelper.gif)
 
