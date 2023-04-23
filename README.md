@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm Aaqib.I love to Code and learn new technologies.My vision is help people to make their life better by providing better softwares..
-        <br> Former Senior Software Engineer at IDS NEXT: [https://www.boardpac.co/srilanka](https://idsnext.com/).
+        <br> Former Senior Software Engineer at IDS NEXT: (https://idsnext.com/).
          <br> Currently working as a Senior .NET Software Developer 
     
 - 👯 I’m looking to collaborate on Open Source Projects...
