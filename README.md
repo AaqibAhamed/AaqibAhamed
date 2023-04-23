@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I'm Aaqib.I love to Code and learn new technologies.My vision is help people to make their life better by providing better softwares..
-        <br> Former Trainee Software Engineer at BoardPAC: https://www.boardpac.co/srilanka.
-         <br> Currently working as a Senior Software Engineer (Full-Stack)
+        <br> Former Senior Software Engineer at IDS NEXT: [https://www.boardpac.co/srilanka](https://idsnext.com/).
+         <br> Currently working as a Senior .NET Software Developer 
     
 - 👯 I’m looking to collaborate on Open Source Projects...
      # my open source contributions here: https://github.com/AaqibAhamed 
