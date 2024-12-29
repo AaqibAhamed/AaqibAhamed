@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I'm Aaqib.I love to Code and learn new technologies.My vision is help people to make their life better by providing better softwares..
+🔭 I'm Aaqib. I love to Code and learn new technologies. My vision is to help people improve their lives by providing better software.
         <br> Former Senior Software Engineer at IDS NEXT: (https://idsnext.com/).
-         <br> Currently working as a Senior .NET Software Developer 
+         <br> Currently working as a Lead Senior Software Engineer (.NET Full-Stack Developer)
     
 - 👯 I’m looking to collaborate on Open Source Projects...
      # my open source contributions here: https://github.com/AaqibAhamed 
