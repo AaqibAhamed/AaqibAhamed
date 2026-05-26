@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 I'm Aaqib. I love to Code, learn, and apply the latest technologies. 
-My vision is to help people improve their lives by providing better software.
+ <br> My vision is to help people improve their lives by providing better software.  <br> 
         <br> Associate Tech Lead at Ascentic : (https://ascentic.se/en/).
          <br> <strong> Current focus on .NET with Modular Monolith Architecture and latest Angular with lightweight, signal-based, and modular design <strong>
     
