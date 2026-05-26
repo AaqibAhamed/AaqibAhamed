@@ -1,20 +1,18 @@
 ### Hi there 👋
 
-🔭 I'm Aaqib. I love to Code, learn, and apply the latest technologies. My vision is to help people to improve their lives by providing better software.
+🔭 I'm Aaqib. I love to Code, learn, and apply the latest technologies. My vision is to help people improve their lives by providing better software.
         <br> Associate Tech Lead at Ascentic : (https://ascentic.se/en/).
-         <br> <strong> Current focus on .NET with Modular Monolith Architecture and latest Angular toward a lightweight, signal-based, and modular design <strong>
+         <br> <strong> Current focus on .NET with Modular Monolith Architecture and latest Angular with lightweight, signal-based, and modular design <strong>
     
 - 👯 I’m looking to collaborate on Open Source Projects...
      # my open source contributions here: https://github.com/AaqibAhamed 
      # contributions on StackOverflow: https://stackoverflow.com/users/10611827/ahamed-aaqib
 
-- 🤔 Twite me on: https://twitter.com/AhamedAaqib1
+- 🤔 Twite me on: https://x.com/AhamedAaqib1
 
-- 💬 Ask me about .NET framework, ASP.NET MVC, ASP.NET Core, C#, Angular, Bootstrap, NodeJS, Express, MongoDB, and Cloud Computing.
+- 💬 Ask me about .NET (C#), ASP.NET Core (REST API, MVC, Razor Page), Minimal APIs, JWT, OAuth, LINQ, SignalR, GraphQL, xUnit, Serilog, Angular, TypeScript, RxJS, NgRx, JavaScript (ES6+), Blazor, Bootstrap, jQuery, Tailwind, Vitest, Jest, Playwright, Azure DevOps, Azure (Logic Apps, Durable Functions, Service Bus, and App Services), MS SQL Server, T-SQL, MySQL, Entity Framework Core, Dapper, Redis, HybridCache, Modular, Serverless, MVC, Microservice, CQRS and Clean Architecture.
 
-- 🌱 I’m currently learning JavaScript Full Stack Development, Cloud Computing, and advanced .NET Core development. 
-
-- 📫 You can reach me at: aaqibgahamed@gmail.com
+- 📫 You can reach me at: aaqibgahamed@gmail.com or aaqibwiki@gmail.com
 
 - 💬 Find me on: https://www.linkedin.com/in/aaqibahamed/
 
