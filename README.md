@@ -305,14 +305,26 @@ I believe great software should be:
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AaqibAhamed&layout=compact&theme=tokyonight&hide_border=true"  alt="Top Languages" />
+<!-- <img width="48%" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AaqibAhamed&layout=compact&theme=tokyonight&hide_border=true"  alt="Top Languages" /> -->
 
 <!-- <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AaqibAhamed&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" /> -->
 
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AaqibAhamed&theme=tokyonight" alt="Stats Summary"/>
+<!-- <img width="48%" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AaqibAhamed&theme=tokyonight" alt="Stats Summary"/> -->
 
 <!-- <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AaqibAhamed&theme=radical" alt="Stats Summary" /> -->
+
+<!-- <p align="center">
+  <img width="48%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AaqibAhamed&theme=tokyonight"/>
+
+  <img width="48%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AaqibAhamed&theme=tokyonight"/>
+</p> -->
+
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AaqibAhamed&theme=tokyonight"/>
+
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AaqibAhamed&theme=tokyonight"/>
 
 </p>
 
