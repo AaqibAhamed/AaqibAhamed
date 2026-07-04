@@ -347,8 +347,6 @@ I believe great software should be:
 
 # 🐍 Contribution Snake
 
-> Enable this using a GitHub Action.
-
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/AaqibAhamed/AaqibAhamed/output/github-contribution-grid-snake-dark.svg"/>
