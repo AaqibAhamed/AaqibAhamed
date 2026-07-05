@@ -35,7 +35,8 @@
 
 # 🚀 About Me
 
-I'm a **Senior .NET Developer** passionate about designing and building **enterprise-grade software solutions** that are scalable, maintainable, secure, and cloud-ready.
+I'm a **Senior Full Stack Developer** passionate about designing and building **enterprise-grade software solutions** that are scalable, maintainable, secure, and cloud-ready. Specialized in Angular, .NET, MS SQL Server and Azure cloud ecosystems, with a 
+proven track record of leading cross-functional teams and modernizing legacy architectures. 
 
 I enjoy solving real-world engineering challenges through clean architecture, modern design patterns, and distributed systems.
 
