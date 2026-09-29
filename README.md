@@ -6,7 +6,7 @@
 <h1 align="center">Hi there 👋 I'm Aaqib (Wiki)</h1>
 
 <h3 align="center">
-  Angular • ASP.NET Core • Azure • SQL Server • Microservices • Modular-Monolith 
+  • Generative AI • ASP.NET Core • Azure • Angular • SQL Server • Modular-Monolith • Microservices 
 </h3>
 
 <p align="center">
@@ -35,12 +35,15 @@
 
 # 🚀 About Me
 
-I'm a **Senior Full Stack Developer** passionate about designing and building **enterprise-grade software solutions** that are scalable, maintainable, secure, and cloud-ready. Specialized in Angular, .NET, MS SQL Server and Azure cloud ecosystems, with a 
-proven track record of leading cross-functional teams and modernizing legacy architectures. 
+Technical Lead with 7+ years of experience in designing, architecting, and delivering highly scalable enterprise applications across .NET, Angular, 
+and Azure, with hands on expertise in Generative AI, LLMs, and Agentic AI including RAG pipelines, multi-agent systems, MCP tool orchestrations, and 
+AI governance and Observability using Microsoft Foundry. Proven track record of leading and mentoring cross functional Agile teams through High-Level/Low-Level 
+Design, modernizing legacy architectures, and owning end-to-end delivery. Building secure, high performance, well-tested, distributed, and cloud-native AI systems 
+with strong engineering and responsible AI practices. 
 
-I enjoy solving real-world engineering challenges through clean architecture, modern design patterns, and distributed systems.
+I enjoy solving real-world engineering challenges through modern architectures,  design patterns, and distributed systems.
 
-My expertise spans backend development, cloud technologies, frontend engineering, SQL optimization, and technical leadership.
+My expertise spans Generative AI, Agentic AI , backend development, cloud technologies, frontend engineering, SQL optimization, and technical leadership.
 
 ---
 
