@@ -11,7 +11,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Building+Scalable+Enterprise+Applications;Clean+Architecture+Advocate;Technical+Lead;Cloud+Native+Developer;Always+Learning+Always+Improving"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Building+Scalable+Enterprise+Applications;LLM/AI+Architect;Clean+Architecture+Advocate;Technical+Lead;Cloud+Native+Developer;Always+Learning+Always+Improving"/>
 
 </p>
 
