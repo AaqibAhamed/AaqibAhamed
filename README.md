@@ -6,7 +6,7 @@
 <h1 align="center">Hi there 👋 I'm Aaqib (Wiki)</h1>
 
 <h3 align="center">
-  • Generative AI • ASP.NET Core • Azure • Angular • SQL Server • Modular-Monolith • Microservices 
+  • LLM/AI • ASP.NET Core • Azure • Angular • SQL Server • Modular-Monolith • Microservices 
 </h3>
 
 <p align="center">
