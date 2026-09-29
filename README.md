@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:2563EB&height=220&section=header&text=Ahamed%20Aaqib&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Technical%20Lead%20|%20Cloud%20Enthusiast&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:2563EB&height=220&section=header&text=Ahamed%20Aaqib&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/LLM%20Architect%20|%20Full%20Stack%20Developer%20|%20Technical%20Lead%20|%20Cloud%20Enthusiast&descAlignY=60"/>
 </p>
 
 <h1 align="center">Hi there 👋 I'm Aaqib (Wiki)</h1>
