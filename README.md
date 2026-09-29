@@ -106,6 +106,8 @@ My expertise spans backend development, cloud technologies, frontend engineering
 - Background Services
 - xUnit
 - Serilog
+- MediatR 
+- FastEndpoints
 
 ---
 
