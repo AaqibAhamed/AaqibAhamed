@@ -46,7 +46,11 @@ My expertise spans backend development, cloud technologies, frontend engineering
 
 # 💼 Professional Highlights
 
-✔ Enterprise Application Development
+✔ Enterprise Software Development
+
+✔ Agentic AI & Retrieval-Augmented Generation (RAG)
+
+✔ Generative AI & LLM Applications
 
 ✔ ASP.NET Core REST APIs
 
@@ -80,9 +84,38 @@ My expertise spans backend development, cloud technologies, frontend engineering
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,azure,docker,html,css"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,ai,angular,ts,js,azure,docker,html,css"/>
 
 </p>
+
+---
+
+## 🤖 LLM &  AI
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=ai,aiscript,azure,Langchain,claude"/>
+
+</p>
+
+* Generative AI & Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* Agentic AI & AI Agent Orchestration
+* LLM Integration & Function Calling
+* Prompt Engineering & Context Engineering
+* Embeddings & Vector Search
+* Vector Databases
+* Microsoft Foundry
+* Azure OpenAI Service
+* Azure AI Search
+* Semantic Kernel
+* LangChain / LangGraph
+* Model Context Protocol (MCP)
+* AI Agents & Tool Calling
+* Multi-Agent Architectures
+* AI Observability & LLMOps
+* Responsible AI & AI Governance
+* Agent Application Architecture
 
 ---
 
@@ -90,7 +123,7 @@ My expertise spans backend development, cloud technologies, frontend engineering
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,postman,git,graphql,ai,nodejs"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,postman,git,graphql,nodejs"/>
 
 </p>
 
@@ -134,7 +167,7 @@ My expertise spans backend development, cloud technologies, frontend engineering
 
 ---
 
-## ☁ Cloud & DevOps
+## ☁ Cloud & DevOps & AI
 
 <p>
 
@@ -143,14 +176,22 @@ My expertise spans backend development, cloud technologies, frontend engineering
 </p>
 
 - Azure App Services
+- Azure Functions
 - Azure SQL
 - Azure Storage
-- Azure Functions
+- Azure Service Bus
+- Azure Logic Apps
+- Azure Event Grid
+- Azure Key Vault
+- Azure AI Search
+- Microsoft Foundry
+- Azure Application Insights
+- Azure Monitor
 - Azure DevOps
 - CI/CD Pipelines
 - Docker
 - Kubernetes (Learning)
-
+  
 ---
 
 ## 🗄 Databases
@@ -189,6 +230,8 @@ My expertise spans backend development, cloud technologies, frontend engineering
 
 🚀 High Performance ASP.NET Core
 
+🤖 Agentic AI & AI Agent Architectures
+
 🎯 Angular Application Modernization
 
 ☁ Azure Cloud Architecture
@@ -201,18 +244,21 @@ My expertise spans backend development, cloud technologies, frontend engineering
 
 ☸ Kubernetes
 
-
 ---
-
+  
 # 📚 Currently Learning
 
-- AI Assisted Development
-
-- Distributed Messaging
-
-- Azure Service Bus
-
-- Azure Kubernetes Service
+* Generative AI & LLM Application Development
+* Retrieval-Augmented Generation (RAG)
+* AI Agent Orchestration
+* Microsoft Foundry & Azure AI
+* Semantic Kernel
+* LangChain & LangGraph
+* Model Context Protocol (MCP)
+* AI Observability & LLMOps
+* AI-Assisted Software Development
+* Distributed Messaging
+* Azure Kubernetes Service (AKS)
 
 ---
 
